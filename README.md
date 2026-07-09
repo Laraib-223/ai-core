@@ -1,6 +1,5 @@
-# FlyRank AI Core - Backend Engine (Checkpoint 1)
 
-A production-grade Backend AI Service built with TypeScript and Node.js. This repository implements an orchestrator pipeline utilizing the Anthropic Claude-3.5-Sonnet model via the Portkey AI Gateway framework. The service is structurally enforced via rigorous schema type checking and runtime validation guardrails.
+A production-grade Backend AI Service built with TypeScript and Node.js. This repository implements an orchestrator pipeline utilizing the Anthropic Claude model via the Portkey AI Gateway framework. The service is structurally enforced via rigorous schema type checking and runtime validation guardrails.
 
 ##  Core Architectural Patterns
 
